@@ -48,7 +48,7 @@ Jinja2==3.1.2
 keyring==23.9.3
 kiwisolver==1.4.4
 MarkupSafe==2.1.1
-matplotlib==3.6.2
+matplotlib==3.5.3
 mediapipe==0.8.11
 more-itertools==8.14.0
 msgpack==1.0.3
