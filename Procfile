@@ -1,1 +1,1 @@
-web: gunicorn backend.wsgi --log-file -
+waitress-serve --1isten=*:8000 myapp.wsgi:application
