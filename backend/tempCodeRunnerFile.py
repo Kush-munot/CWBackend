@@ -1,2 +1,0 @@
-
-print(qdata['tags'])
